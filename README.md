@@ -1,4 +1,4 @@
-### ✈️ Servus, welcome to my profile!
+### ✈ Servus, welcome to my profile!
 
 - 🖼️ I am an aspiring front-end developer and digital artist
 - ❤️ I love working on personal projects but often lack the time and cash (my go-to excuse for being lazy)
